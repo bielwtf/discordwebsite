@@ -1,1 +1,1 @@
-[![](image.png)](https://portfolio-card-sang-buster.vercel.app/)
+[![](image.png)](https://bielwtfnew.pages.dev)
